@@ -1,6 +1,6 @@
 <!-- Animated Top Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=220&section=header&text=Hi%20there,%20I'm%20Prajjwal%20Pradhan!%20👋&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F0FF&height=220&section=header&text=Hi%20there,%20I'm%20Prajwal%20Pradhan!%20👋&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" />
 </div>
 
 <!-- Animated Typing Text -->
@@ -10,9 +10,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&color=00f0ff&style=for-the-badge" alt="Profile Views" />
-</div>
 
 
 # 💫 About Me:
